@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ursina and tkinker
 - 📫 How to reach me: idk
 - 😄 Pronouns: her/him
-- ⚡ Fun fact: i am from Honduras
+- ⚡ Fun fact: i am from Honduras and i have 13 years old
 
 <!---
 harolpc839/harolpc839 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
